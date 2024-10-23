@@ -5,7 +5,7 @@ services:
     build: .
     container_name: cloud_project
     environment:
-      SPRING.DATASOURCE.URL: jdbc:mysql://localhost:3306/cloud_db?createDatabaseIfNotExist=True}
+      SPRING.DATASOURCE.URL: jdbc:mysql://localhost:3307/cloud_db?createDatabaseIfNotExist=True}
       SPRING.DATASOURCE.USERNAME: root
       SPRING.DATASOURCE.PASSWORD: YourNewPassword
     depends_on:
@@ -30,7 +30,7 @@ services:
       MYSQL_USER: viccyn
       MYSQL_PASSWORD: YourNewPassword
     ports:
-      - "3306:3306"
+      - "3307:3306"
     volumes:
       - mysql_data:/var/lib/mysql
 
