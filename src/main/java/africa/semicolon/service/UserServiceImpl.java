@@ -26,6 +26,7 @@ public class UserServiceImpl implements UserService{
         userRepository.save(user);
         var response = modelMapper.map(user, RegisterResponse.class);
         response.setMessage("Successfully registered");
+        response.setMessage("Registered");
         return response;
 
 
