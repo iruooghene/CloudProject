@@ -1,0 +1,41 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    container_name: devops2
+    environment:
+      SPRING.DATASOURCE.URL: jdbc:mysql://localhost:3306/cloud_db?createDatabaseIfNotExist=True}
+      SPRING.DATASOURCE.USERNAME: root
+      SPRING.DATASOURCE.PASSWORD: YourNewPassword
+    depends_on:
+      - mysql
+    ports:
+      - "8080:8080"
+    deploy:
+      replicas: 1
+      resources:
+        limits:
+          memory: 128M
+      restart_policy:
+        condition: on-failure
+
+
+  mysql:
+    image: mysql:8.0
+    container_name: cloudproject-mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: YourNewPassword
+      MYSQL_DATABASE: cloud_db
+      MYSQL_USER: viccyn
+      MYSQL_PASSWORD: YourNewPassword
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+
+volumes:
+  mysql_data:
+
+
