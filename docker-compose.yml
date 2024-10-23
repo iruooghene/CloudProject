@@ -3,7 +3,7 @@ version: '3.8'
 services:
   app:
     build: .
-    container_name: devops2
+    container_name: cloud_project
     environment:
       SPRING.DATASOURCE.URL: jdbc:mysql://localhost:3306/cloud_db?createDatabaseIfNotExist=True}
       SPRING.DATASOURCE.USERNAME: root
