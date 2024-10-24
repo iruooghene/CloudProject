@@ -34,8 +34,25 @@ services:
     volumes:
       - mysql_data:/var/lib/mysql
 
+  prometheus:
+    image: prom/prometheus:latest
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml  # Mount the configuration file
+    ports:
+      - "9090:9090"  # Expose Prometheus UI
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'  # Point to the config file
+
+  grafana:
+    image: grafana/grafana
+    ports:
+      - "3000:3000"
+    volumes:
+      - grafana_data:/var/lib/grafana
+
 
 volumes:
   mysql_data:
+  grafana_data:
 
 
