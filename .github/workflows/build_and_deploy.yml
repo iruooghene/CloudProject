@@ -40,3 +40,12 @@ jobs:
 
       - name: Push Docker image to Docker Hub
         run: docker push vi108/cloudproject:latest
+
+      - name: Deploy with Docker Compose
+        run: docker compose up -d
+
+      - name: Run Load test
+        run: chmod +x ./load_test.sh
+
+      - name: Run Autoscaling Script
+        run: ./autoscale_script.sh
