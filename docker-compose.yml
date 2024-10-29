@@ -3,7 +3,7 @@ version: '3.8'
 services:
   app:
     build: .
-    container_name: cloud_project
+    container_name: cloud-project
     environment:
       SPRING.DATASOURCE.URL: jdbc:mysql://cloudproject-mysql:3306/cloud_db?connectTimeout=30000
       SPRING.DATASOURCE.USERNAME: root
@@ -13,7 +13,7 @@ services:
         condition: service_healthy
 
     ports:
-      - "8088:8080"
+      - "8088:8088"
     deploy:
       replicas: 1
       resources:
@@ -61,47 +61,9 @@ services:
       interval: 30s
       timeout: 10s
       retries: 3
-  grafana:
-    image: grafana/grafana
-    ports:
-      - "3000:3000"
-    volumes:
-      - grafana_data:/var/lib/grafana
-    healthcheck:
-      test: [ "CMD", "curl", "-f", "http://localhost:3000/health" ]
-      interval: 30s
-      timeout: 10s
-      retries: 3
-  elasticsearch:
-    image: elasticsearch:8.0.0
-    container_name: elasticsearch
-    environment:
-      - discovery.type=single-node
-      - xpack.security.enabled=true:true
-      - xpack.security.http.ssl.enabled:true
-    ports:
-      - "9200:9200"
-    volumes:
-      - esdata:/usr/share/elasticsearch/data
 
-  logstash:
-    image: docker.elastic.co/logstash/logstash:8.0.0
-    container_name: logstash
-    ports:
-      - "5044:5044"  # Logstash default port
-    volumes:
-      - ./logstash.conf:/usr/share/logstash/pipeline/logstash.conf  # Mount your Logstash config
-
-  kibana:
-    image: kibana:8.0.0
-    container_name: kibana
-    ports:
-      - "5601:5601"
-    depends_on:
-      - elasticsearch
 volumes:
   mysql_data:
-  grafana_data:
   esdata:
 
 
