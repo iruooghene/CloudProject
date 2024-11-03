@@ -38,8 +38,9 @@ jobs:
       - name: Build Docker image
         run: docker build -t vi108/cloudproject:latest .
 
+
       - name: Push Docker image to Docker Hub
-        run: docker push vi108/cloudproject:latest
+        run: docker push vi108/cloudproject:late
 
       - name: Connect to EC2 and Deploy
         env:
