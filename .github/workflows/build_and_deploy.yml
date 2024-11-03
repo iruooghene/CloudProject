@@ -41,11 +41,31 @@ jobs:
       - name: Push Docker image to Docker Hub
         run: docker push vi108/cloudproject:latest
 
-      - name: Deploy with Docker Compose
-        run: docker compose up -d
+      - name: Connect to EC2 and Deploy
+        env:
+          EC2_PUBLIC_IP: ${{ secrets.EC2_PUBLIC_IP }}
+          PEM_KEY_BASE64: ${{ secrets.PEM_KEY }}
+        run: |
+          echo "${{ secrets.PEM_KEY }}" > key.pem
+          chmod 400 key.pem
 
-      - name: Run Load test
-        run: chmod +x ./load_test.sh
+          ssh -o StrictHostKeyChecking=no -i key.pem ubuntu@$EC2_PUBLIC_IP << 'EOF'
+            # Install Docker if needed
+            sudo apt-get update
+            sudo apt-get install -y apt-transport-https ca-certificates curl software-properties-common
+            curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+            echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+            sudo apt-get update
+            sudo apt-get install -y docker-ce
+            sudo systemctl start docker
+            sudo systemctl enable docker
 
-      - name: Run Autoscaling Script
-        run: chmod +x ./autoscale_script.sh
+            # Run MySQL container
+            sudo docker run -d --name mysql-db -e MYSQL_ROOT_PASSWORD=YourNewPassword -e MYSQL_DATABASE=cloud_db -p 3307:3306 mysql:latest
+
+            # Pull and run your application container
+            sudo docker pull vi108/cloudproject:latest
+            sudo docker stop cloudproject || true
+            sudo docker rm cloudproject || true
+            sudo docker run -d --name cloudproject -p 8088:8088 --link mysql-db:mysql vi108/cloudproject:latest
+          EOF
