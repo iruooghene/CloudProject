@@ -62,7 +62,7 @@ jobs:
               echo "Docker is already installed."
           fi
               
-            # Run MySQL container
+            # Run MySQL container  
             sudo docker run -d --name mysql-db -e MYSQL_ROOT_PASSWORD=YourNewPassword -e MYSQL_DATABASE=cloud_db -p 3307:3306 mysql:latest
               
             # Pull and run your application container
