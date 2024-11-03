@@ -66,6 +66,6 @@ jobs:
             # Pull and run your application container
             sudo docker pull vi108/cloudproject:latest
             sudo docker stop cloudproject || true
-            sudo docker rm cloudproject || true
+            sudo docker rm cloudproject || true  
             sudo docker run -d --name cloudproject -p 8088:8088 --link mysql-db:mysql vi108/cloudproject:latest
           EOF
