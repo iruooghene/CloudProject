@@ -78,7 +78,7 @@ jobs:
           fi
           
           # Change directory to your project
-          cd /mnt/c/Users/DELL/Hello_world/CloudProject
+         cd /home/ubuntu/CloudProject
 
 
           # Run Docker Compose
