@@ -48,12 +48,12 @@ jobs:
           # Write the PEM key to a file
           echo "${{ secrets.PEM_KEY }}" > cloudkeypair.pem  # Use the correct file name
           chmod 400 cloudkeypair.pem  # Set permissions for the key
-
+          
           # SSH into the EC2 instance and deploy the application
           ssh -o StrictHostKeyChecking=no -i cloudkeypair.pem ubuntu@$EC2_PUBLIC_IP << 'EOF'
           # Update package lists
           sudo apt-get update
-
+          
           # Check and install Docker if not present
           if ! command -v docker &> /dev/null; then
               echo "Docker not found, installing..."
@@ -67,18 +67,24 @@ jobs:
           else
               echo "Docker is already installed."
           fi
-
+          
           # Stop and remove existing MySQL container if it exists
           if [ "$(sudo docker ps -q -f name=cloudproject-mysql)" ]; then
               echo "Stopping and removing existing MySQL container..."
               sudo docker stop cloudproject-mysql
               sudo docker rm cloudproject-mysql
           fi
-
+          
+          # Remove the container even if it is not running
+          if [ "$(sudo docker ps -aq -f name=cloudproject-mysql)" ]; then
+              echo "Removing MySQL container regardless of its state..."
+              sudo docker rm cloudproject-mysql
+          fi
+          
           # Run a new MySQL container
           echo "Starting a new MySQL container..."
           sudo docker run -d --name cloudproject-mysql -e MYSQL_ROOT_PASSWORD=YourNewPassword -e MYSQL_DATABASE=cloud_db -p 3307:3306 mysql:latest
-
+          
           # Pull and run your application container
           echo "Pulling the latest application image..."
           sudo docker pull vi108/cloudproject-app:latest
@@ -87,3 +93,4 @@ jobs:
           echo "Starting application container..."
           sudo docker run -d --name cloudproject-app --link cloudproject-mysql:cloudproject-mysql -p 8088:8088 vi108/cloudproject-app:latest
           EOF
+     
