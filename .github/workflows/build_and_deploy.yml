@@ -69,11 +69,11 @@ jobs:
           fi
           
           # Run MySQL container
-          sudo docker run -d --name mysql-db -e MYSQL_ROOT_PASSWORD=YourNewPassword -e MYSQL_DATABASE=cloud_db -p 3307:3306 mysql:latest
+          sudo docker run -d --name cloudproject-mysql -e MYSQL_ROOT_PASSWORD=YourNewPassword -e MYSQL_DATABASE=cloud_db -p 3307:3306 mysql:latest
           
           # Pull and run your application container
           sudo docker pull vi108/cloudproject-app:latest
           sudo docker stop cloudproject-app || true
           sudo docker rm cloudproject-app || true
-          sudo docker run -d --name cloudproject-app -p 8088:8088 --link  mysql-db:mysql vi108/cloudproject-app:latest
+          sudo docker run -d --name cloudproject-app -p 8088:8088 --link  cloudproject-mysql:mysql vi108/cloudproject-app:latest
           EOF
