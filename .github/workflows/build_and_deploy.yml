@@ -78,7 +78,8 @@ jobs:
           fi
           
           # Change directory to your project
-          cd /path/to/your/project # Adjust this path
+          cd /mnt/c/Users/DELL/Hello_world/CloudProject
+
 
           # Run Docker Compose
           sudo docker-compose up -d
