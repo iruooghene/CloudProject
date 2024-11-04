@@ -1,9 +1,5 @@
 version: '3.8'
 
-networks:
-  app-network:
-    driver: bridge
-
 services:
   mysql:
     image: mysql:8.0
@@ -31,7 +27,7 @@ services:
 #    container_name: cloud-project
     environment:
       SPRING.DATASOURCE.URL: jdbc:mysql://cloudproject-mysql:3306/cloud_db?connectTimeout=30000
-      SPRING.DATASOURCE.USERNAME: root
+      SPRING.DATASOURCE.USERNAME: viccyn
       SPRING.DATASOURCE.PASSWORD: YourNewPassword
     depends_on:
       mysql:
@@ -68,6 +64,10 @@ services:
       interval: 30s
       timeout: 10s
       retries: 3
+
+networks:
+  app-network:
+    driver: bridge
 
 volumes:
   mysql_data:
