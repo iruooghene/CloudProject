@@ -35,10 +35,10 @@ jobs:
           password: ${{ secrets.DOCKER_PASSWORD }}
 
       - name: Build Docker image
-        run: docker build -t vi108/cloudproject:latest .
+        run: docker build -t vi108/cloudproject-app:latest .
 
       - name: Push Docker image to Docker Hub
-        run: docker push vi108/cloudproject:latest
+        run: docker push vi108/cloudproject-app:latest
 
       - name: Connect to EC2 and Deploy
         env:
@@ -72,8 +72,8 @@ jobs:
           sudo docker run -d --name mysql-db -e MYSQL_ROOT_PASSWORD=YourNewPassword -e MYSQL_DATABASE=cloud_db -p 3307:3306 mysql:latest
           
           # Pull and run your application container
-          sudo docker pull vi108/cloudproject:latest
-          sudo docker stop cloudproject || true
-          sudo docker rm cloudproject || true
-          sudo docker run -d --name cloudproject -p 8088:8088 --link  mysql-db:mysql vi108/cloudproject:latest
+          sudo docker pull vi108/cloudproject-app:latest
+          sudo docker stop cloudproject-app || true
+          sudo docker rm cloudproject-app || true
+          sudo docker run -d --name cloudproject-app -p 8088:8088 --link  mysql-db:mysql vi108/cloudproject-app:latest
           EOF
