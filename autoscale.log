@@ -26854,3 +26854,1407 @@ time="2024-11-04T05:00:06+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_worl
 185.5
 150.5: integer expression expected
 [Mon Nov  4 05:00:06 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:00:28+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:00:29+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:00:33+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:00:33+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:00:33+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:00:33+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:00:33 WAT 2024] Memory: 156
+170.2
+172.8
+6.859
+42.08 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 156
+170.2
+172.8
+6.859
+42.08: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 156
+170.2
+172.8
+6.859
+42.08: integer expression expected
+[Mon Nov  4 05:00:33 WAT 2024] Memory: 156
+170.2
+172.8
+6.859
+25.48 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 156
+170.2
+172.8
+6.859
+25.48: integer expression expected
+[Mon Nov  4 05:00:33 WAT 2024] Memory usage within limits.
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 156
+170.2
+172.8
+6.859
+25.48: integer expression expected
+[Mon Nov  4 05:00:33 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:00:34+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:00:35+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:00:35+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:00:35+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:00:35+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:00:35+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:00:37+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:00:38+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:00:38 WAT 2024] Memory: 160.4
+174.1
+181.6
+34.3
+[Mon Nov  4 05:00:38 WAT 2024] Memory: 160.4
+170.5
+181.6
+34.3
+52.89 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 160.4
+174.1
+181.6
+34.3
+52.89 MB, Replicas: 5
+52.89: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 160.4
+170.5
+181.6
+34.3
+52.89: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 160.4
+170.5
+181.6
+34.3
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 160.4
+174.1
+181.6
+34.3
+52.89: integer expression expected
+52.89: integer expression expected
+[Mon Nov  4 05:00:39 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:00:39 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:00:39+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:00:39+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:00:39+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:00:40+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:00:40 WAT 2024] Memory: 161
+174.7
+186.4
+38.83
+58.3 MB, Replicas: 5
+time="2024-11-04T05:00:40+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:00:40+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 161
+174.7
+186.4
+38.83
+58.3: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 161
+174.7
+186.4
+38.83
+[Mon Nov  4 05:00:40 WAT 2024] Memory: 161
+174.7
+186.4
+38.83
+58.3 MB, Replicas: 5
+58.3: integer expression expected
+time="2024-11-04T05:00:40+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 161
+174.7
+186.4
+38.83
+58.3: integer expression expected
+[Mon Nov  4 05:00:40 WAT 2024] Memory usage within limits.
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 161
+174.7
+186.4
+38.83
+58.3: integer expression expected
+[Mon Nov  4 05:00:40 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:00:40 WAT 2024] Memory: 161
+174.7
+186.4
+38.83
+[Mon Nov  4 05:00:40 WAT 2024] Memory: 161
+174.7
+186.4
+38.83
+[Mon Nov  4 05:00:40 WAT 2024] Memory: 161
+174.7
+186.4
+38.83
+58.3 MB, Replicas: 5
+58.3 MB, Replicas: 5
+58.3 MB, Replicas: 5
+[Mon Nov  4 05:00:40 WAT 2024] Memory: 161
+174.7
+186.4
+38.83
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 161
+174.7
+186.4
+38.83
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 161
+174.7
+186.4
+38.83
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 161
+174.7
+186.4
+38.83
+58.3: integer expression expected
+58.3: integer expression expected
+58.3: integer expression expected
+58.3 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 161
+174.7
+186.4
+38.83
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 161
+174.7
+186.4
+38.83
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 161
+174.7
+186.4
+38.83
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 161
+174.7
+186.4
+38.83
+58.3: integer expression expected
+58.3: integer expression expected
+58.3: integer expression expected
+58.3: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 161
+174.7
+186.4
+38.83
+58.3: integer expression expected
+[Mon Nov  4 05:00:40 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:00:40 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:00:40 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:00:40 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:00:43+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:00:43 WAT 2024] Memory: 162.3
+182.2
+187.8
+41.93
+68.45 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 162.3
+182.2
+187.8
+41.93
+68.45: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 162.3
+182.2
+187.8
+41.93
+68.45: integer expression expected
+[Mon Nov  4 05:00:43 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:01:05+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:05+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:12+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:12+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:13+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:13+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:13+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:13+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:13+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:14+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:14+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:20+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:20+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:20+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:20+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:20+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:20+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:20+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:01:21 WAT 2024] Memory: 205.1
+15.4
+19.08
+130.6
+137.8 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 205.1
+15.4
+19.08
+130.6
+137.8: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 205.1
+15.4
+19.08
+130.6
+137.8: integer expression expected
+[Mon Nov  4 05:01:21 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:01:21+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:21+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:22+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:23+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:01:25 WAT 2024] Memory: 204.9
+12.95
+19.08
+129.9
+[Mon Nov  4 05:01:25 WAT 2024] Memory: 205.1
+15.4
+19.08
+130.6
+[Mon Nov  4 05:01:25 WAT 2024] Memory: 205.1
+15.4
+19.08
+130.6
+[Mon Nov  4 05:01:25 WAT 2024] Memory: 204.9
+0
+19.08
+129.9
+137.2 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 204.9
+0
+19.08
+129.9
+137.2: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 204.9
+0
+19.08
+129.9
+137.2: integer expression expected
+129.8 MB, Replicas: 5
+137.8 MB, Replicas: 5
+137.8 MB, Replicas: 5
+[Mon Nov  4 05:01:25 WAT 2024] Memory: 205.1
+15.4
+19.08
+130.6
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 204.9
+12.95
+19.08
+129.9
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 205.1
+15.4
+19.08
+130.6
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 205.1
+15.4
+19.08
+130.6
+[Mon Nov  4 05:01:25 WAT 2024] Memory: 205.1
+15.4
+19.08
+130.6
+[Mon Nov  4 05:01:25 WAT 2024] Memory: 205.1
+15.4
+19.08
+130.6
+137.8: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 205.1
+15.4
+19.08
+130.6
+137.8: integer expression expected
+[Mon Nov  4 05:01:25 WAT 2024] Memory: 205.1
+15.4
+19.08
+130.6
+137.8 MB, Replicas: 5
+[Mon Nov  4 05:01:25 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:01:25 WAT 2024] Memory: 205.1
+15.4
+19.08
+130.6
+137.8 MB, Replicas: 5
+137.8 MB, Replicas: 5
+129.8: integer expression expected
+137.8: integer expression expected
+[Mon Nov  4 05:01:25 WAT 2024] Memory: 205.1
+15.4
+19.08
+130.6
+137.8 MB, Replicas: 5
+137.8 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 205.1
+15.4
+19.08
+130.6
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 205.1
+15.4
+19.08
+130.6
+137.8: integer expression expected
+137.8: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 205.1
+15.4
+19.08
+130.6
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 205.1
+15.4
+19.08
+130.6
+137.8: integer expression expected
+137.8: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 205.1
+15.4
+19.08
+130.6
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 205.1
+15.4
+19.08
+130.6
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 204.9
+12.95
+19.08
+129.9
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 205.1
+15.4
+19.08
+130.6
+137.8 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 205.1
+15.4
+19.08
+130.6
+[Mon Nov  4 05:01:25 WAT 2024] Memory usage within limits.
+137.8: integer expression expected
+137.8: integer expression expected
+137.8: integer expression expected
+129.8: integer expression expected
+137.8: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 205.1
+15.4
+19.08
+130.6
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 205.1
+15.4
+19.08
+130.6
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 205.1
+15.4
+19.08
+130.6
+137.8: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 205.1
+15.4
+19.08
+130.6
+137.8: integer expression expected
+137.8: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 205.1
+15.4
+19.08
+130.6
+[Mon Nov  4 05:01:25 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:01:25 WAT 2024] Memory usage within limits.
+137.8: integer expression expected
+137.8: integer expression expected
+[Mon Nov  4 05:01:25 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:01:25 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:01:25 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:01:25 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:01:25 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:01:25 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:01:51+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:54+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:01:54 WAT 2024] Memory: 115.5
+116.3
+119.5
+155.4
+177.8 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 115.5
+116.3
+119.5
+155.4
+177.8: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 115.5
+116.3
+119.5
+155.4
+177.8: integer expression expected
+[Mon Nov  4 05:01:55 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:01:55+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:56+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:56+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:56+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:56+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:56+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:56+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:56+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:56+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:57+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:01:59+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:02:00+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:02:00+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:02:00+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:02:00 WAT 2024] Memory: 115.8
+126.9
+123
+158.9
+184.6 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 115.8
+126.9
+123
+158.9
+184.6: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 115.8
+126.9
+123
+158.9
+184.6: integer expression expected
+[Mon Nov  4 05:02:00 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:02:00 WAT 2024] Memory: 115.8
+126.9
+123
+158.9
+184.6 MB, Replicas: 5
+[Mon Nov  4 05:02:00 WAT 2024] Memory: 115.8
+126.9
+123
+158.9
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 115.8
+126.9
+123
+158.9
+184.6 MB, Replicas: 5
+184.6: integer expression expected
+[Mon Nov  4 05:02:00 WAT 2024] Memory: 115.8
+126.9
+123
+158.9
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 115.8
+126.9
+123
+158.9
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 115.8
+126.9
+123
+158.9
+184.6 MB, Replicas: 5
+184.6: integer expression expected
+time="2024-11-04T05:02:00+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+184.6: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 115.8
+126.9
+123
+158.9
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 115.8
+126.9
+123
+158.9
+184.6: integer expression expected
+184.6: integer expression expected
+[Mon Nov  4 05:02:00 WAT 2024] Memory usage within limits.
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 115.8
+126.9
+123
+158.9
+184.6: integer expression expected
+[Mon Nov  4 05:02:00 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:02:00 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:02:01 WAT 2024] Memory: 115.8
+126.9
+123
+158.9
+time="2024-11-04T05:02:01+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:02:01+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:02:01+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+184.6 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 115.8
+126.9
+123
+158.9
+184.6: integer expression expected
+time="2024-11-04T05:02:01+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 115.8
+126.9
+123
+158.9
+184.6: integer expression expected
+[Mon Nov  4 05:02:01 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:02:01+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:02:01 WAT 2024] Memory: 115.8
+126.9
+123
+158.9
+[Mon Nov  4 05:02:01 WAT 2024] Memory: 115.8
+126.9
+123
+158.9
+[Mon Nov  4 05:02:01 WAT 2024] Memory: 115.8
+120.1
+123
+158.9
+184.6 MB, Replicas: 5
+184.6 MB, Replicas: 5
+184.6 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 115.8
+126.9
+123
+158.9
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 115.8
+126.9
+123
+158.9
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 115.8
+120.1
+123
+158.9
+184.6: integer expression expected
+184.6: integer expression expected
+[Mon Nov  4 05:02:01 WAT 2024] Memory: 115.8
+126.9
+123
+158.9
+184.6: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 115.8
+126.9
+123
+158.9
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 115.8
+126.9
+123
+158.9
+184.6 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 115.8
+120.1
+123
+158.9
+184.6: integer expression expected
+184.6: integer expression expected
+184.6: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 115.8
+126.9
+123
+158.9
+[Mon Nov  4 05:02:01 WAT 2024] Memory: 115.8
+126.9
+123
+158.9
+184.6 MB, Replicas: 5
+184.6: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 115.8
+126.9
+123
+158.9
+184.6: integer expression expected
+[Mon Nov  4 05:02:01 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:02:01 WAT 2024] Memory usage within limits.
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 115.8
+126.9
+123
+158.9
+[Mon Nov  4 05:02:01 WAT 2024] Memory usage within limits.
+184.6: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 115.8
+126.9
+123
+158.9
+184.6: integer expression expected
+[Mon Nov  4 05:02:01 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:02:01 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:02:25+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:02:29+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:02:29 WAT 2024] Memory: 170
+181.3
+175.9
+19.45
+62.05 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 170
+181.3
+175.9
+19.45
+62.05: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 170
+181.3
+175.9
+19.45
+62.05: integer expression expected
+[Mon Nov  4 05:02:29 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:02:31+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:02:31+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:02:31+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:02:31+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:02:32+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:02:32+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:02:32+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:02:33+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:02:33+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:02:33+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:02:35+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:02:35+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:02:35+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:02:36 WAT 2024] Memory: 179.4
+186.5
+177.2
+53.92
+time="2024-11-04T05:02:36+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+136.6 MB, Replicas: 5
+[Mon Nov  4 05:02:36 WAT 2024] Memory: 179.4
+186.5
+177.2
+53.92
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 179.4
+186.5
+177.2
+53.92
+136.6 MB, Replicas: 5
+136.6: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 179.4
+186.5
+177.2
+53.92
+time="2024-11-04T05:02:36+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 179.4
+186.5
+177.2
+53.92
+136.6: integer expression expected
+136.6: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 179.4
+186.5
+177.2
+53.92
+136.6: integer expression expected
+[Mon Nov  4 05:02:36 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:02:36 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:02:36 WAT 2024] Memory: 179.4
+186.5
+177.2
+53.92
+136.6 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 179.4
+186.5
+177.2
+53.92
+[Mon Nov  4 05:02:36 WAT 2024] Memory: 179.4
+186.5
+177.2
+53.92
+136.6 MB, Replicas: 5
+136.6: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 179.4
+186.5
+177.2
+53.92
+136.6: integer expression expected
+[Mon Nov  4 05:02:36 WAT 2024] Memory: 179.4
+186.5
+177.2
+53.92
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 179.4
+186.5
+177.2
+53.92
+138 MB, Replicas: 5
+136.6: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 179.4
+186.5
+177.2
+53.92
+136.6: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 179.4
+186.5
+177.2
+53.92
+138: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 179.4
+186.5
+177.2
+53.92
+138: integer expression expected
+[Mon Nov  4 05:02:36 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:02:36 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:02:36 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:02:36+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:02:36+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:02:36+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:02:36 WAT 2024] Memory: 182.6
+198.8
+179.1
+59.88
+137.3 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 182.6
+198.8
+179.1
+59.88
+137.3: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 182.6
+198.8
+179.1
+59.88
+137.3: integer expression expected
+time="2024-11-04T05:02:36+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:02:36 WAT 2024] Memory: 182.6
+198.8
+179.1
+59.88
+137.3 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 182.6
+198.8
+179.1
+59.88
+137.3: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 182.6
+198.8
+179.1
+59.88
+137.3: integer expression expected
+[Mon Nov  4 05:02:36 WAT 2024] Memory: 182.6
+198.8
+179.1
+59.88
+137.3 MB, Replicas: 5
+[Mon Nov  4 05:02:36 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:02:36 WAT 2024] Memory usage within limits.
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 182.6
+198.8
+179.1
+59.88
+137.3: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 182.6
+198.8
+179.1
+59.88
+137.3: integer expression expected
+[Mon Nov  4 05:02:36 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:02:36+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:02:36 WAT 2024] Memory: 182.6
+198.8
+179.1
+59.88
+137.3 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 182.6
+198.8
+179.1
+59.88
+137.3: integer expression expected
+[Mon Nov  4 05:02:37 WAT 2024] Memory: 182.6
+198.8
+179.1
+59.88
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 182.6
+198.8
+179.1
+59.88
+137.3 MB, Replicas: 5
+137.3: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 182.6
+198.8
+179.1
+59.88
+137.3: integer expression expected
+[Mon Nov  4 05:02:37 WAT 2024] Memory usage within limits.
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 182.6
+198.8
+179.1
+59.88
+137.3: integer expression expected
+[Mon Nov  4 05:02:37 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:03:00+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:04+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:03:04 WAT 2024] Memory: 26.91
+38.04
+40.08
+164
+176 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 26.91
+38.04
+40.08
+164
+176: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 26.91
+38.04
+40.08
+164
+176: integer expression expected
+[Mon Nov  4 05:03:04 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:03:06+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:06+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:06+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:06+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:06+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:07+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:07+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:07+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:07+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:07+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:09+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:09+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:10+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:10+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:10+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:10+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:03:10 WAT 2024] Memory: 66.56
+79.31
+78.31
+166.5
+170.3 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 66.56
+79.31
+78.31
+166.5
+170.3: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 66.56
+79.31
+78.31
+166.5
+170.3: integer expression expected
+[Mon Nov  4 05:03:10 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:03:10+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:03:10 WAT 2024] Memory: 66.56
+79.31
+78.31
+166.5
+170.3 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 66.56
+79.31
+78.31
+166.5
+170.3: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 66.56
+79.31
+78.31
+166.5
+[Mon Nov  4 05:03:10 WAT 2024] Memory: 66.56
+79.31
+78.31
+166.5
+170.3: integer expression expected
+170.3 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 66.56
+79.31
+78.31
+166.5
+170.3: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 66.56
+79.31
+78.31
+166.5
+170.3: integer expression expected
+[Mon Nov  4 05:03:10 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:03:10 WAT 2024] Memory: 66.56
+79.31
+78.31
+166.5
+170.3 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 66.56
+79.31
+78.31
+166.5
+170.3: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 66.56
+79.31
+78.31
+166.5
+170.3: integer expression expected
+[Mon Nov  4 05:03:10 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:03:10 WAT 2024] Memory: 66.56
+79.31
+78.31
+166.5
+170.3 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 66.56
+79.31
+78.31
+166.5
+170.3: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 66.56
+79.31
+78.31
+166.5
+170.3: integer expression expected
+[Mon Nov  4 05:03:10 WAT 2024] Memory: 66.56
+79.31
+78.31
+166.5
+170.3 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 66.56
+79.31
+78.31
+166.5
+170.3: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 66.56
+79.31
+78.31
+166.5
+170.3: integer expression expected
+[Mon Nov  4 05:03:10 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:03:10 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:03:10 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:03:10 WAT 2024] Memory: 66.56
+79.31
+78.31
+166.5
+170.3 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 66.56
+79.31
+78.31
+166.5
+170.3: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 66.56
+79.31
+78.31
+166.5
+170.3: integer expression expected
+[Mon Nov  4 05:03:10 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:03:10+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:03:10 WAT 2024] Memory: 66.56
+79.31
+78.31
+166.5
+170.3 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 66.56
+79.31
+78.31
+166.5
+170.3: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 66.56
+79.31
+78.31
+166.5
+170.3: integer expression expected
+[Mon Nov  4 05:03:10 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:03:10+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:10+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:03:10 WAT 2024] Memory: 71.93
+79.31
+78.31
+166.5
+170.7 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 71.93
+79.31
+78.31
+166.5
+170.7: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 71.93
+79.31
+78.31
+166.5
+170.7: integer expression expected
+[Mon Nov  4 05:03:10 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:03:10 WAT 2024] Memory: 71.93
+91.76
+89.73
+166.5
+170.7 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 71.93
+91.76
+89.73
+166.5
+170.7: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 71.93
+91.76
+89.73
+166.5
+170.7: integer expression expected
+[Mon Nov  4 05:03:10 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:03:34+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:37+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:03:37 WAT 2024] Memory: 153.9
+166.7
+159.3
+97.5
+108.4 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 153.9
+166.7
+159.3
+97.5
+108.4: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 153.9
+166.7
+159.3
+97.5
+108.4: integer expression expected
+[Mon Nov  4 05:03:37 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:03:40+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:40+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:40+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:40+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:40+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:41+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:41+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:41+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:41+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:41+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:44+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:44+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:44+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:03:44 WAT 2024] Memory: 172.7
+171.7
+168.2
+135.5
+137.8 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 172.7
+171.7
+168.2
+135.5
+137.8: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 172.7
+171.7
+168.2
+135.5
+time="2024-11-04T05:03:44+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+137.8: integer expression expected
+[Mon Nov  4 05:03:44 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:03:44 WAT 2024] Memory: 172.7
+171.7
+168.2
+135.5
+137.8 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 172.7
+171.7
+168.2
+135.5
+137.8: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 172.7
+171.7
+168.2
+135.5
+137.8: integer expression expected
+[Mon Nov  4 05:03:44 WAT 2024] Memory: 172.7
+171.7
+168.2
+135.5
+137.8 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 172.7
+171.7
+168.2
+135.5
+137.8: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 172.7
+171.7
+168.2
+135.5
+137.8: integer expression expected
+time="2024-11-04T05:03:44+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:44+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:03:44 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:03:44 WAT 2024] Memory: 172.7
+171.7
+168.2
+135.5
+135 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 172.7
+171.7
+168.2
+135.5
+135: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 172.7
+171.7
+168.2
+135.5
+135: integer expression expected
+[Mon Nov  4 05:03:44 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:03:44 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:03:44 WAT 2024] Memory: 172.7
+171.7
+168.2
+135.5
+137.8 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 172.7
+171.7
+168.2
+135.5
+137.8: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 172.7
+171.7
+168.2
+135.5
+137.8: integer expression expected
+[Mon Nov  4 05:03:44 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:03:44 WAT 2024] Memory: 172.7
+171.7
+168.2
+135.5
+137.8 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 172.7
+171.7
+168.2
+135.5
+137.8: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 172.7
+171.7
+168.2
+135.5
+137.8: integer expression expected
+[Mon Nov  4 05:03:44 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:03:44+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:44+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:03:44 WAT 2024] Memory: 172.7
+171.7
+168.2
+135.5
+137.8 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 172.7
+171.7
+168.2
+135.5
+137.8: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 172.7
+171.7
+168.2
+135.5
+137.8: integer expression expected
+[Mon Nov  4 05:03:44 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:03:44 WAT 2024] Memory: 172.7
+171.7
+168.2
+135.5
+137.8 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 172.7
+171.7
+168.2
+135.5
+137.8: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 172.7
+171.7
+168.2
+135.5
+137.8: integer expression expected
+[Mon Nov  4 05:03:44 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:03:44+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:03:44+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:03:44 WAT 2024] Memory: 172.7
+171.7
+168.2
+135.5
+137.8 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 172.7
+171.7
+168.2
+135.5
+137.8: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 172.7
+171.7
+168.2
+135.5
+137.8: integer expression expected
+[Mon Nov  4 05:03:44 WAT 2024] Memory: 172.7
+171.7
+168.2
+135.5
+[Mon Nov  4 05:03:44 WAT 2024] Memory usage within limits.
+137.8 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 172.7
+171.7
+168.2
+135.5
+137.8: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 172.7
+171.7
+168.2
+135.5
+137.8: integer expression expected
+[Mon Nov  4 05:03:44 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:04:07+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:04:11+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:04:11 WAT 2024] Memory: 44.82
+69.93
+44.93
+209.7
+195.1 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 44.82
+69.93
+44.93
+209.7
+195.1: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 44.82
+69.93
+44.93
+209.7
+195.1: integer expression expected
+[Mon Nov  4 05:04:11 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:04:15+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:04:17+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:04:18+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:04:18+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:04:18+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:04:18+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:04:18+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:04:19+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:04:19+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:04:19+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:04:22+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:04:22+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:04:22 WAT 2024] Memory: 73.5
+109.8
+79.96
+219.5
+207.5 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 73.5
+109.8
+79.96
+219.5
+207.5: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 73.5
+109.8
+79.96
+219.5
+207.5: integer expression expected
+time="2024-11-04T05:04:22+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:04:23+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:04:23 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:04:23+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:04:23+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:04:23+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:04:23 WAT 2024] Memory: 73.5
+109.8
+79.96
+219.5
+207.5 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 73.5
+109.8
+79.96
+219.5
+207.5: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 73.5
+109.8
+79.96
+219.5
+[Mon Nov  4 05:04:23 WAT 2024] Memory: 73.5
+109.8
+79.96
+219.5
+207.5 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 73.5
+109.8
+79.96
+219.5
+[Mon Nov  4 05:04:23 WAT 2024] Memory: 73.5
+109.8
+79.96
+219.5
+207.5 MB, Replicas: 5
+time="2024-11-04T05:04:23+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+207.5: integer expression expected
+207.5: integer expression expected
+time="2024-11-04T05:04:23+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 73.5
+109.8
+79.96
+219.5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 73.5
+109.8
+79.96
+219.5
+207.5: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 73.5
+109.8
+79.96
+219.5
+207.5: integer expression expected
+207.5: integer expression expected
+[Mon Nov  4 05:04:23 WAT 2024] Memory: 73.5
+109.8
+79.96
+219.5
+207.5 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 73.5
+109.8
+79.96
+219.5
+207.5: integer expression expected
+[Mon Nov  4 05:04:23 WAT 2024] Memory: 73.5
+109.8
+79.96
+219.5
+[Mon Nov  4 05:04:23 WAT 2024] Memory usage within limits.
+207.5 MB, Replicas: 5
+[Mon Nov  4 05:04:23 WAT 2024] Memory usage within limits.
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 73.5
+109.8
+79.96
+219.5
+207.5: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 73.5
+109.8
+79.96
+219.5
+207.5: integer expression expected
+[Mon Nov  4 05:04:23 WAT 2024] Memory usage within limits.
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 73.5
+109.8
+79.96
+219.5
+[Mon Nov  4 05:04:23 WAT 2024] Memory: 73.5
+109.8
+79.96
+219.5
+[Mon Nov  4 05:04:23 WAT 2024] Memory usage within limits.
+207.5: integer expression expected
+207.5 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 73.5
+109.8
+79.96
+219.5
+207.5: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 73.5
+109.8
+79.96
+219.5
+207.5: integer expression expected
+[Mon Nov  4 05:04:23 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:04:23 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:04:23 WAT 2024] Memory: 73.5
+109.8
+79.96
+219.5
+207.5 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 73.5
+109.8
+79.96
+219.5
+207.5: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 73.5
+109.8
+79.96
+219.5
+207.5: integer expression expected
+[Mon Nov  4 05:04:23 WAT 2024] Memory: 73.5
+109.8
+79.96
+219.5
+207.5 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 73.5
+109.8
+79.96
+219.5
+207.5: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 73.5
+109.8
+79.96
+219.5
+207.5: integer expression expected
+[Mon Nov  4 05:04:23 WAT 2024] Memory usage within limits.
+[Mon Nov  4 05:04:23 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:04:23+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:04:23 WAT 2024] Memory: 76.07
+111.4
+80.55
+219.6
+207.4 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 76.07
+111.4
+80.55
+219.6
+207.4: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 76.07
+111.4
+80.55
+219.6
+207.4: integer expression expected
+[Mon Nov  4 05:04:23 WAT 2024] Memory usage within limits.
+time="2024-11-04T05:04:41+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+time="2024-11-04T05:04:48+01:00" level=warning msg="/mnt/c/Users/DELL/Hello_world/CloudProject/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[Mon Nov  4 05:04:49 WAT 2024] Memory: 134.7
+174.4
+140.2
+232.3
+233.8 MB, Replicas: 5
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 66: [: 134.7
+174.4
+140.2
+232.3
+233.8: integer expression expected
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 68: [: 134.7
+174.4
+140.2
+232.3
+233.8: integer expression expected
+[Mon Nov  4 05:04:49 WAT 2024] Memory usage within limits.
