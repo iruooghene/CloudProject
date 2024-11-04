@@ -83,7 +83,7 @@ jobs:
           
           # Run a new MySQL container
           echo "Starting a new MySQL container..."
-          sudo docker run -d --name cloudproject-mysql -e MYSQL_ROOT_PASSWORD=YourNewPassword -e MYSQL_DATABASE=cloud_db -p 3307:3306 mysql:latest
+          sudo docker run -d --name cloudproject-mysql -e MYSQL_ROOT_PASSWORD=${{secrets.MYSQL_PASSWORD}} -e MYSQL_DATABASE=cloud_db -p 3307:3306 mysql:latest
           
           # Pull and run your application container
           echo "Pulling the latest application image..."
