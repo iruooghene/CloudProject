@@ -7,7 +7,7 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: YourNewPassword
       MYSQL_DATABASE: cloud_db
-      MYSQL_USER: viccyn
+      MYSQL_USER: root
       MYSQL_PASSWORD: YourNewPassword
     ports:
       - "3307:3306"
@@ -27,7 +27,7 @@ services:
 #    container_name: cloud-project
     environment:
       SPRING.DATASOURCE.URL: jdbc:mysql://cloudproject-mysql:3306/cloud_db?connectTimeout=30000
-      SPRING.DATASOURCE.USERNAME: viccyn
+      SPRING.DATASOURCE.USERNAME: root
       SPRING.DATASOURCE.PASSWORD: YourNewPassword
     depends_on:
       mysql:
