@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class FibonacciController {
     @GetMapping("/fibonacci/{n}")
     public long calculateFibonacci(@PathVariable int n) {
+
         return fibonacci(n);
     }
 

@@ -1,36 +1,35 @@
 version: '3.8'
 
 services:
-  mysql:
-    image: mysql:8.0
-    container_name: cloudproject-mysql
+  postgres:
+    image: postgres:latest
+    container_name: cloudproject-postgres
     environment:
-      MYSQL_ROOT_PASSWORD: YourNewPassword
-      MYSQL_DATABASE: cloud_db
-      MYSQL_USER: viccyn
-      MYSQL_PASSWORD: YourNewPassword
+      POSTGRES_USER: admin
+      POSTGRES_DB: cloudproject_db
+      POSTGRES_PASSWORD: your_password
     ports:
-      - "3307:3306"
+      - "5432:5432"
     volumes:
-      - mysql_data:/var/lib/mysql
+      - postgres_data:/var/lib/postgresql/data
     networks:
       - app-network
 
     healthcheck:
-      test: [ "CMD", "mysqladmin", "ping", "-h", "localhost" ]
-      interval: 30s
-      timeout: 10s
-      retries: 3
+        test: [ "CMD-SHELL", "pg_isready -U postgres" ]
+        interval: 10s
+        retries: 5
+        start_period: 10s
 
   app:
     build: .
 #    container_name: cloud-project
     environment:
-      SPRING.DATASOURCE.URL: jdbc:mysql://cloudproject-mysql:3306/cloud_db?connectTimeout=30000
-      SPRING.DATASOURCE.USERNAME: viccyn
-      SPRING.DATASOURCE.PASSWORD: YourNewPassword
+      SPRING.DATASOURCE.URL: jdbc:postgresql://postgres:5432/cloudproject_db
+      SPRING.DATASOURCE.USERNAME: admin
+      SPRING.DATASOURCE.PASSWORD: your_password
     depends_on:
-      mysql:
+      postgres:
         condition: service_healthy
     networks:
       - app-network
@@ -70,7 +69,6 @@ networks:
     driver: bridge
 
 volumes:
-  mysql_data:
-  esdata:
+  postgres_data:
 
 
