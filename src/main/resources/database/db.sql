@@ -1,0 +1,5 @@
+-- truncate table users;
+--
+--
+-- insert into users(name,email,username,password ) values
+--     ('Victoria','eboh20@gmail.com','Vicky','Eboh');

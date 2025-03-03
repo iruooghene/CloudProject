@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CloudProjectApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(CloudProjectApplication.class, args);
 	}
 
