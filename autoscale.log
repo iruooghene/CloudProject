@@ -92194,3 +92194,136 @@ set: usage: set [-abefhkmnptuvxBCHP] [-o option-name] [--] [arg ...]
 /mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 14: $'\r': command not found
 /mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: syntax error near unexpected token `$'{\r''
 /mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: `get_memory_usage() {'
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 2: set: -: invalid option
+set: usage: set [-abefhkmnptuvxBCHP] [-o option-name] [--] [arg ...]
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 3: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 10: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 14: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: syntax error near unexpected token `$'{\r''
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: `get_memory_usage() {'
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 2: set: -: invalid option
+set: usage: set [-abefhkmnptuvxBCHP] [-o option-name] [--] [arg ...]
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 3: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 10: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 14: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: syntax error near unexpected token `$'{\r''
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: `get_memory_usage() {'
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 2: set: -: invalid option
+set: usage: set [-abefhkmnptuvxBCHP] [-o option-name] [--] [arg ...]
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 3: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 10: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 14: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: syntax error near unexpected token `$'{\r''
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: `get_memory_usage() {'
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 2: set: -: invalid option
+set: usage: set [-abefhkmnptuvxBCHP] [-o option-name] [--] [arg ...]
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 3: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 10: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 14: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: syntax error near unexpected token `$'{\r''
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: `get_memory_usage() {'
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 2: set: -: invalid option
+set: usage: set [-abefhkmnptuvxBCHP] [-o option-name] [--] [arg ...]
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 3: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 10: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 14: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: syntax error near unexpected token `$'{\r''
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: `get_memory_usage() {'
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 2: set: -: invalid option
+set: usage: set [-abefhkmnptuvxBCHP] [-o option-name] [--] [arg ...]
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 3: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 10: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 14: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: syntax error near unexpected token `$'{\r''
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: `get_memory_usage() {'
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 2: set: -: invalid option
+set: usage: set [-abefhkmnptuvxBCHP] [-o option-name] [--] [arg ...]
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 3: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 10: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 14: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: syntax error near unexpected token `$'{\r''
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: `get_memory_usage() {'
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 2: set: -: invalid option
+set: usage: set [-abefhkmnptuvxBCHP] [-o option-name] [--] [arg ...]
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 3: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 10: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 14: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: syntax error near unexpected token `$'{\r''
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: `get_memory_usage() {'
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 2: set: -: invalid option
+set: usage: set [-abefhkmnptuvxBCHP] [-o option-name] [--] [arg ...]
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 3: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 10: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 14: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: syntax error near unexpected token `$'{\r''
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: `get_memory_usage() {'
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 2: set: -: invalid option
+set: usage: set [-abefhkmnptuvxBCHP] [-o option-name] [--] [arg ...]
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 3: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 10: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 14: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: syntax error near unexpected token `$'{\r''
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: `get_memory_usage() {'
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 2: set: -: invalid option
+set: usage: set [-abefhkmnptuvxBCHP] [-o option-name] [--] [arg ...]
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 3: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 10: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 14: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: syntax error near unexpected token `$'{\r''
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: `get_memory_usage() {'
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 2: set: -: invalid option
+set: usage: set [-abefhkmnptuvxBCHP] [-o option-name] [--] [arg ...]
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 3: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 10: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 14: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: syntax error near unexpected token `$'{\r''
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: `get_memory_usage() {'
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 2: set: -: invalid option
+set: usage: set [-abefhkmnptuvxBCHP] [-o option-name] [--] [arg ...]
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 3: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 10: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 14: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: syntax error near unexpected token `$'{\r''
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: `get_memory_usage() {'
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 2: set: -: invalid option
+set: usage: set [-abefhkmnptuvxBCHP] [-o option-name] [--] [arg ...]
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 3: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 10: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 14: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: syntax error near unexpected token `$'{\r''
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: `get_memory_usage() {'
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 2: set: -: invalid option
+set: usage: set [-abefhkmnptuvxBCHP] [-o option-name] [--] [arg ...]
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 3: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 10: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 14: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: syntax error near unexpected token `$'{\r''
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: `get_memory_usage() {'
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 2: set: -: invalid option
+set: usage: set [-abefhkmnptuvxBCHP] [-o option-name] [--] [arg ...]
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 3: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 10: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 14: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: syntax error near unexpected token `$'{\r''
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: `get_memory_usage() {'
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 2: set: -: invalid option
+set: usage: set [-abefhkmnptuvxBCHP] [-o option-name] [--] [arg ...]
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 3: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 10: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 14: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: syntax error near unexpected token `$'{\r''
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: `get_memory_usage() {'
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 2: set: -: invalid option
+set: usage: set [-abefhkmnptuvxBCHP] [-o option-name] [--] [arg ...]
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 3: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 10: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 14: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: syntax error near unexpected token `$'{\r''
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: `get_memory_usage() {'
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 2: set: -: invalid option
+set: usage: set [-abefhkmnptuvxBCHP] [-o option-name] [--] [arg ...]
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 3: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 10: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 14: $'\r': command not found
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: syntax error near unexpected token `$'{\r''
+/mnt/c/Users/DELL/Hello_world/CloudProject/autoscale_script.sh: line 16: `get_memory_usage() {'

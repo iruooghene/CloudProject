@@ -1,66 +1,44 @@
 version: '3.8'
 
 services:
-  mysql:
-    image: mysql:8.0
-    container_name: cloudproject-mysql
+  postgres:
+    image: postgres:latest
+    container_name: cloudDatabase-pg
     environment:
-      MYSQL_ROOT_PASSWORD: YourNewPassword
-      MYSQL_DATABASE: cloud_db
-      MYSQL_USER: viccyn
-      MYSQL_PASSWORD: YourNewPassword
+      POSTGRES_DB: cloud_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: IruoVict21
     ports:
-      - "3307:3306"
+      - "5432:5432"
     volumes:
-      - mysql_data:/var/lib/mysql
+      - postgres_data:/var/lib/postgresql/data
     networks:
       - app-network
-
     healthcheck:
-      test: [ "CMD", "mysqladmin", "ping", "-h", "localhost" ]
+      test: [ "CMD-SHELL", "pg_isready -U postgres" ]
       interval: 30s
       timeout: 10s
       retries: 3
 
   app:
     build: .
-#    container_name: cloud-project
     environment:
-      SPRING.DATASOURCE.URL: jdbc:mysql://cloudproject-mysql:3306/cloud_db?connectTimeout=30000
-      SPRING.DATASOURCE.USERNAME: viccyn
-      SPRING.DATASOURCE.PASSWORD: YourNewPassword
+      SPRING_DATASOURCE_URL: jdbc:postgresql://postgres:5432/cloud_db
+      SPRING_DATASOURCE_USERNAME: postgres
+      SPRING_DATASOURCE_PASSWORD: IruoVict21
     depends_on:
-      mysql:
+      postgres:
         condition: service_healthy
     networks:
       - app-network
-
-
     ports:
-      - "8088"
+      - "8088:8088"
     deploy:
       replicas: 1
-#      resources:
-#        limits:
-#         memory: 121M
       restart_policy:
         condition: on-failure
     healthcheck:
-     test: [ "CMD", "curl", "-f", "http://localhost:8088/fibonacci/15" ]
-     interval: 30s
-     timeout: 10s
-     retries: 3
-
-  prometheus:
-    image: prom/prometheus:latest
-    volumes:
-      - ./prometheus.yml:/etc/prometheus/prometheus.yml  # Mount the configuration file
-    ports:
-      - "9090:9090"  # Expose Prometheus UI
-    command:
-      - '--config.file=/etc/prometheus/prometheus.yml'  # Point to the config file
-    healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:9090/-/ready"]
+      test: [ "CMD", "curl", "-f", "http://localhost:8088/fibonacci/15" ]
       interval: 30s
       timeout: 10s
       retries: 3
@@ -70,7 +48,4 @@ networks:
     driver: bridge
 
 volumes:
-  mysql_data:
-  esdata:
-
-
+  postgres_data:
