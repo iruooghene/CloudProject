@@ -4,41 +4,98 @@ services:
   postgres:
     image: postgres:latest
     container_name: cloudDatabase-pg
+    env_file:
+      - .env
     environment:
       POSTGRES_DB: cloud_db
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: IruoVict21
+      POSTGRES_USER: ${DATABASE_USER}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
     ports:
-      - "5432:5432"
+      - "${POSTGRES_PORT}:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
     networks:
       - app-network
     healthcheck:
-      test: [ "CMD-SHELL", "pg_isready -U postgres" ]
+      test: [ "CMD-SHELL", "pg_isready -U ${DATABASE_USER}" ]
       interval: 30s
       timeout: 10s
       retries: 3
 
   app:
-    build: .
+    image: vi108/cloudproject-app:latest
+    container_name: cloud-app
+    env_file:
+      - .env
     environment:
       SPRING_DATASOURCE_URL: jdbc:postgresql://postgres:5432/cloud_db
-      SPRING_DATASOURCE_USERNAME: postgres
-      SPRING_DATASOURCE_PASSWORD: IruoVict21
+      SPRING_DATASOURCE_USERNAME: ${DATABASE_USER}
+      SPRING_DATASOURCE_PASSWORD: ${DB_PASSWORD}
     depends_on:
       postgres:
         condition: service_healthy
     networks:
       - app-network
     ports:
-      - "8088:8088"
+      - "${APP_PORT}:8088"
     deploy:
       replicas: 1
       restart_policy:
         condition: on-failure
     healthcheck:
       test: [ "CMD", "curl", "-f", "http://localhost:8088/fibonacci/15" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
+    command:
+      - "--config.file=/etc/prometheus/prometheus.yml"
+    ports:
+      - "9090:9090"
+    networks:
+      - app-network
+    depends_on:
+      - alertmanager
+    healthcheck:
+      test: [ "CMD", "wget", "-qO-", "http://localhost:9090/-/healthy" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  alertmanager:
+    image: prom/alertmanager:latest
+    container_name: alertmanager
+    volumes:
+       - ./alertmanager.yml:/etc/alertmanager/alertmanager.yml
+    command:
+       - "--config.file=/etc/alertmanager/alertmanager.yml"
+    ports:
+       - "9093:9093"
+    networks:
+       - app-network
+    healthcheck:
+      test: [ "CMD", "wget", "-qO-", "http://localhost:9093/-/healthy" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    ports:
+      - "3000:3000"
+    networks:
+      - app-network
+    depends_on:
+      - prometheus
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:3000/api/health" ]
       interval: 30s
       timeout: 10s
       retries: 3

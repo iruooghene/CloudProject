@@ -1,0 +1,22 @@
+groups:
+  - name: service_alerts
+    rules:
+      # Alert when the application instance is down
+      - alert: InstanceDown
+        expr: up{job="my_app"} == 0
+        for: 1m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Application instance is down"
+          description: "The application at {{ $labels.instance }} has been unreachable for more than 1 minute."
+
+      # Alert when the PostgreSQL database is down
+      - alert: DatabaseDown
+        expr: pg_up == 0
+        for: 1m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Database instance is down"
+          description: "The database at {{ $labels.instance }} has been unreachable for more than 1 minute."
